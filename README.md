@@ -1,4 +1,4 @@
-# Easy-SCPSL
+# Упрощённый HUD SCP: Secret Laboratory
 Упрощённый HUD для SCP: Secret Laboratory.               
 Блокировка Global Ban за изменения папки Translations отсуствоет.               
 Сделал данный упрощённый HUD: Narin#4241               
