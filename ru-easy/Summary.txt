@@ -1,0 +1,17 @@
+Раунд завершён!
+ПОБЕДА SCP
+ПОБЕДА ФОНДА
+<size=120>ПОБЕДА ПОВСТАНЦЕВ</size>
+НИЧЬЯ
+Сбежавшие объекты заполонили комплекс. Вызвана группа реагирования.
+Все угрозы безопасности ликвидированы. Безопасность Зоны-02 восстановлена.
+Комплекс зачищен от присутствия Фонда SCP. Оперативники ожидают дальнейших указаний.
+Зона-02 находится под частичным контролем, но не без потерь. Победитель не был определён.
+<color=yellow>[summary_d_escaped]</color> <color=pumpkin>Класс-D</color> сбежало
+<color=yellow>[summary_s_escaped]</color> Научных Сотрудников выжило
+<color=yellow>[summary_warhead_kills]</color> убито из за детонации <color=red>Альфа</color> боеголовкой.
+<color=red>Альфа</color> боеголовка не была детонирована.
+Раунд длился: <color=yellow>[summary_round_minutes]</color> минут и <color=yellow>[summary_round_seconds]</color> секунд.
+[summary_scp_terminated] Уничтожено Объектов SCP
+Новый раунд начнётся через: <color=yellow>[summary_next_round_countdown]</color> секунд.
+<color=red>SCP</color> убили <color=yellow>[summary_scpfrags]</color> людей.

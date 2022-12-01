@@ -1,0 +1,27 @@
+<color=blue>МОГ Epsilon-11</color>, обозначенный как <color=yellow>[designation]</color>, прибыл в комплекс.
+Ожидается ВОУС для <color=yellow>[count]</color> <color=red>SCP</color>.
+Ожидается ВОУС для <color=yellow>1</color> <color=red>SCP</color>.
+На объекте нет объектов <color=red>SCP</color>.
+успешно уничтожен. Причина не указана.
+уничтожен <color=red>SCP-[scp]</color>.
+уничтожен <color=yellow>Тесла Воротами</color>.
+уничтожен <color=red>Альфа</color> Боегловкой.
+уничтожил <color=yellow>Научный Сотрудник</color>.
+уничтожил <color=pumpkin>Класс-D</color>.
+уничтожил <color=green>Повстанец Хаоса</color>.
+<color=red>SCP-[scp]</color>
+уничтожен. Отряд неизвестен.
+уничторжен отрядом </color=yellow>[designation]</color>.
+уничтожен от обеззараживания в <color=yellow>ЛЗС</color>.
+<color=yellow>[current]</color> из <color=green>[max]</color> генераторов активировано.
+<split>Все генераторы <color=green>активированы</color>.
+Перезагрузка через 3... 2... 1...
+Комплекс вернулся в рабочий режим.
+Процесс обеззараживания <color=yellow>ЛЗС</color> начнётся через <color=red>15</color> минут.
+Процесс обеззараживания <color=yellow>ЛЗС</color> начнётся через <color=red>[time]</color> минут.
+Процесс обеззараживания <color=yellow>ЛЗС</color> начнётся через <color=red>1</color> минуту.
+Процесс обеззараживания <color=yellow>ЛЗС</color> начнётся через <color=red>30</color> секунд.<split>Покиньте <color=yellow>ЛЗС</color>.
+<color=yellow>ЛЗС</color> заблокирована и готова к обеззараживании.
+АКТИВИРОВАН ПРОЦЕСС АВАРИЙНОЙ ДЕТОНАЦИИ БОЕГОЛОВКИ АЛЬФА.<split>ПОДЗЕМНАЯ ЧАСТЬ КОМПЛЕКСА БУДЕТ УНИЧТОЖЕНА ЧЕРЕЗ [time] СЕКУНД.
+ДЕТОНАЦИЯ АЛЬФА БОЕГЛОВКИ ОТМЕНЕНА.
+ПРОЦЕСС ДЕТОНАЦИИ ВОЗОБНОВЛЁН, ДО ВЗРЫВА <color=red>[time]</color> СЕКУНД.

@@ -1,0 +1,22 @@
+{
+  "Name": "Русский - Упрощеная игра",
+  "Authors": [
+    "Narin"
+  ],
+  "InterfaceLocales": [
+    "ru-RU",
+    "ru"
+  ],
+  "SystemLocales": [
+    "ru-BY",
+    "ru-KZ",
+    "ru-KG",
+    "ru-MD",
+    "ru-RU",
+    "ru-UA",
+    "ru"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}
